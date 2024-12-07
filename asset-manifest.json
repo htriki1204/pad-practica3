@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/htriki1204/pad-practica3/static/css/main.df2416c7.css",
+    "main.js": "/htriki1204/pad-practica3/static/js/main.8dd83eda.js",
+    "static/js/488.ea39ef1a.chunk.js": "/htriki1204/pad-practica3/static/js/488.ea39ef1a.chunk.js",
+    "index.html": "/htriki1204/pad-practica3/index.html",
+    "main.df2416c7.css.map": "/htriki1204/pad-practica3/static/css/main.df2416c7.css.map",
+    "main.8dd83eda.js.map": "/htriki1204/pad-practica3/static/js/main.8dd83eda.js.map",
+    "488.ea39ef1a.chunk.js.map": "/htriki1204/pad-practica3/static/js/488.ea39ef1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df2416c7.css",
+    "static/js/main.8dd83eda.js"
+  ]
+}
